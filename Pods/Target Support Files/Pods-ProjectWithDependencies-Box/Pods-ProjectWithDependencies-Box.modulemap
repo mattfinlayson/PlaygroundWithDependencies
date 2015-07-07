@@ -1,0 +1,6 @@
+framework module Box {
+  umbrella header "Pods-ProjectWithDependencies-Box-umbrella.h"
+
+  export *
+  module * { export * }
+}
